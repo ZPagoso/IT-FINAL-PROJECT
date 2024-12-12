@@ -1,6 +1,7 @@
 
 # *Final project*
                      WELCOME TO MY PORTFOLIO
+This is my link for live viewing of website: https://zpagoso.github.io/IT-FINAL-PROJECT/
 
 Hello! This is my personal portfolio webpage. It is built using HTML, and CSS.
 
